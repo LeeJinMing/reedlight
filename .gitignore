@@ -1,0 +1,18 @@
+# Local Lens Studio state
+Cache/
+Support/
+Workspaces/
+PluginsUserPreferences/
+*.lock
+*.pem
+*.pfx
+*.key
+ls-live-instance.json*
+.mcp.json
+.clad/
+.claude/
+.codex/
+.cursor/
+.vscode/
+AGENTS.md
+CLAUDE.md
